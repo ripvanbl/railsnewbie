@@ -1,0 +1,1 @@
+class App.Presenters.Aircraft extends App.Presenter

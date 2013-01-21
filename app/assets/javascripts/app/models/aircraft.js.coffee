@@ -1,0 +1,1 @@
+class App.Models.Aircraft extends Backbone.Model

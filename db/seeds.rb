@@ -5,3 +5,4 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+aircraft = Aircraft.create([{ aircraft_type: 'Airplane', manufacturer: 'Beechcraft', name: 'Bonanza', iata_code: 'BEP'}])

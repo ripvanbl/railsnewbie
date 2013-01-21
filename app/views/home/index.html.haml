@@ -1,0 +1,7 @@
+#list
+#details
+= render :partial => 'aircraft'
+= render :partial => 'aircraft_new'
+= render :partial => 'aircraft_list'
+:javascript 
+  App.init = #{@aircraft.to_json};
